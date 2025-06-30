@@ -48,10 +48,10 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+- My first milestone is finishing my starter project which is the retro arcade console. It consists of a USB socket, Dot matrix, digital tube, capacitance, keys, buzzer, power swtich, and a battery box. This all comes together to create a fun console where you can play 5 retro arcade games like snakes, blocks, fire fighting, racing car, and slots.
+- I have soldered all components neccesray to get the console to function properly, I just need to attach the battery box and in order to do that I need to solder the battery box wires to the VCC and GND.
+- Throighout this process, I have come across a few challenges, one being that I forgot to solder the USB socket, the holes are very small so instead of using the USB, I am goinhg to focus on making it battery powered. I realised this after completely screwing on the clear casing so I had to take it all apart. 
+- My plan to complete this project is to follow the instructions on the booklet and solder all parts necessary. 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
