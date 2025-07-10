@@ -45,7 +45,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/CaCazFBhYKs](https://www.youtube.com/watch?v=K6AuFzGZmk8&list=PLe-u_DjFx7eui8dmPGji-0-slT8KydYv_&index=86&pp=iAQB)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 - My first milestone is finishing my starter project which is the retro arcade console. It consists of a USB socket, Dot matrix, digital tube, capacitance, keys, buzzer, power swtich, and a battery box. This all comes together to create a fun console where you can play 5 retro arcade games like snakes, blocks, fire fighting, racing car, and slots.
