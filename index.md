@@ -21,7 +21,7 @@ This summer at BlueStamp I will be working on the smart mirror project, the main
 
 For my first milestone, I successfully set up the Raspberry Pi and installed MagicMirror². This included flashing the Raspberry Pi OS onto an SD card, connecting it to the internet, cloning the MagicMirror repository from GitHub, and configuring the initial settings. These steps established the core of my project, turning the Raspberry Pi into the central hub for running the software and displaying modules like time, weather, and news. What surprised me most was how straightforward the installation process was, with the clear documentation. The biggest challenge I faced was getting the Raspberry Pi configured properly, troubleshooting network issues, and ensuring that the correct version of Node.js was installed. I also ran into a minor issue with running commands from the wrong directory, but I quickly resolved it. Moving forward, I need to focus on customizing the modules, setting up the mirror display with a one-way mirror, and possibly adding extra features like motion sensors or voice control. Once these tasks are completed, I’ll be closer to having a fully functional MagicMirror ready for daily use.
 
-<img src = "Screenshot%202025-07-17%20142038.png" style = "width:30%; height:30%;">
+<img src = "milestone.png" style = "width:30%; height:30%;">
 
 # Starter Project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K6AuFzGZmk8?si=hGj0GuObNYL4hWkC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
