@@ -5,8 +5,6 @@ This summer at BlueStamp I will be working on the smart mirror project, the main
 |:--:|:--:|:--:|:--:|
 | Tamana N. | Mt. Eden High School | Software Engineering | Incoming Senior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
 ![Headstone Image]([(https://mail.google.com/mail/u/0?ui=2&ik=fdfb431f52&attid=0.1&permmsgid=msg-a:r-7252976553293422791&th=19819d06cd9bbe61&view=fimg&fur=ip&permmsgid=msg-a:r-7252976553293422791&sz=s0-l75-ft&attbid=ANGjdJ_zVTRPqXZJxJyuMQUpfNQEnhuFaQdT8j9w5qT4VGtOOWF1nrF70cPGu6L0aA9Zuz_w8bmrW1-_pfR-yg1RF_3l2iaWcUQnKFoXRxGuDIF_nnotnydmEYaHMJc&disp=emb&realattid=ii_19819d0639fac788cdf1&zw)])
   
 # Final Milestone
