@@ -5,8 +5,8 @@ This summer at BlueStamp I will be working on the smart mirror project, the main
 |:--:|:--:|:--:|:--:|
 | Tamana N. | Mt. Eden High School | Software Engineering | Incoming Senior
 
-![Headstone Image](https://github.com/tamana-nt/Tamana_BlueStampPortfolio/blob/gh-pages/unnamed.png)
-  
+<img src = "https://github.com/tamana-nt/Tamana_BlueStampPortfolio/blob/gh-pages/unnamed.png" style = "width:30%; height:30%;">
+
 # Final Milestone
 
 
