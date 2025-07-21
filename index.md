@@ -8,12 +8,15 @@ This summer at BlueStamp I will be working on the smart mirror project, the main
 <img src = "unnamed.png" style = "width:30%; height:30%;">
 
 # Final Milestone
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+For my final milestone, I assembled all the pieces of my MagicMirror by putting the monitor into the wooden frame and cutting the mirror to fit perfectly over it. This involved carefully placing the monitor inside the frame I built earlier, making sure the wires fit through the slot without bending or breaking. I then measured and cut the one-way acrylic mirror to match the monitor’s size so that it would fit nicely inside the frame without gaps. What surprised me most was how clean and professional it looked once everything was put together, truly looking like a smart mirror. The biggest challenge I faced was cutting the acrylic mirror evenly without cracking it, but using a scoring knife slowly along a ruler helped me get a clean edge. Moving forward, I want to improve the aesthetics by painting the frame, adding cable management for a cleaner setup, and exploring more advanced modules like facial recognition for personalized greetings.
 
 
 # Second Milestone
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+For my second milestone, I built the wooden frame for my MagicMirror monitor and added a new module for prayer times. This involved cutting two planks that were 14 inches long and 2 inches wide, and two planks that were 12.6 inches long and 2 inches wide. I also cut out a small slot in the wood to make space for the monitor wires, then glued the planks securely onto the wood board to create a sturdy frame. What surprised me most was how precise the measurements needed to be for everything to fit perfectly around the monitor. The biggest challenge I faced was cutting the slot cleanly without damaging the planks, but I managed to get it done with careful measurements and slow cutting. Moving forward, I need to install the one-way mirror onto the frame, ensure the monitor fits snugly behind it, and continue customizing more modules to make my MagicMirror as useful as possible in daily life.
 
 
 # First Milestone
