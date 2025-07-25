@@ -8,13 +8,13 @@ This summer at BlueStamp I will be working on the smart mirror project, the main
 <img src = "unnamed.png" style = "width:30%; height:30%;">
 
 # Final Milestone
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgxLyWt931k?si=xIiE88fNoq5I3mVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my final milestone, I assembled all the pieces of my MagicMirror by putting the monitor into the wooden frame, attaching the mirror I had cut earlier, and turning the MagicMirror on for the first time. This involved carefully placing the monitor inside the frame I built in my second milestone, making sure the wires fit through the slot without bending or breaking. Once everything was connected, I turned on the Raspberry Pi and saw all the modules, including the prayer times, displaying clearly through the mirror. What surprised me most was how satisfying it felt to see my project come to life after all the setup and building. The biggest challenge I faced was arranging all the parts securely inside the frame so that nothing moved or got damaged. 
 
 
 # Second Milestone
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tuEuNzw7LeU?si=YWLke4CwFB0j3Ouy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my second milestone, I built the wooden frame for my MagicMirror monitor, cut the acrylic mirror to fit the frame, and added a new module for prayer times. This involved cutting two planks that were 14 inches long and 2 inches wide, and two planks that were 12.6 inches long and 2 inches wide. I also cut out a small slot in the wood to make space for the monitor wires, then glued the planks securely onto the wood board to create a sturdy frame. After building the frame, I measured and cut the one-way acrylic mirror so it would fit perfectly over the monitor area. What surprised me most was how precise the measurements needed to be for both the mirror and wood pieces to align well. The biggest challenge I faced was cutting the mirror cleanly without cracking it, but using a scoring knife and ruler helped me get an even edge. Moving forward, I need to place the monitor into the frame, connect all components, and power on the MagicMirror to see everything working together.
 
